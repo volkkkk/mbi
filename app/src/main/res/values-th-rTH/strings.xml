@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mbi</string>
+    <string name="start">เริ่มต้น</string>
+    <string name="exit">ออกจากแอพ</string>
+
+</resources>
