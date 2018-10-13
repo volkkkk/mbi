@@ -22,6 +22,7 @@ public class HomeActivity extends AppCompatActivity {
 
                 Intent CalPage = new Intent(HomeActivity.this,Calculate.class);
                 startActivity(CalPage);
+                //e nha hee
             }
         });
     }
